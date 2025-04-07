@@ -24,7 +24,7 @@
   }
 
   :root {
-    --primary-color:        #ffd500; /* Keeping the primary color bright */
+    --primary-color:        ##FFFFFF; /* Keeping the primary color bright */
     --white-color:          #e0e0e0; /* Light gray for text */
     --dark-color:           #121212; /* Dark background */
     --menu-bg-color:        #1e1e1e; /* Darker menu background */
