@@ -24,11 +24,11 @@
   }
 
   :root {
-    --primary-color:        ##ffd550; /* Keeping the primary color bright */
-    --white-color:          #e0e0e0; /* Light gray for text */
+    --primary-color:        #000000; /* Keeping the primary color bright */
+    --white-color:          #000000; /* Light gray for text */
     --dark-color:           #121212; /* Dark background */
     --menu-bg-color:        #1e1e1e; /* Darker menu background */
-    --gray-color:           #b0b0b0; /* Light gray for subtle text */
+    --gray-color:           #000000; /* Light gray for subtle text */
     --p-color:              #c0c0c0; /* Lighter paragraph text */
 
     /* Keeping font styles and sizes the same */
